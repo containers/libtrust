@@ -1,3 +1,4 @@
+//go:build !libtrust_openssl || go1.27
 // +build !libtrust_openssl
 
 package libtrust
